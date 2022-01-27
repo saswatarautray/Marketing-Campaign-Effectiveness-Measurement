@@ -2,6 +2,8 @@
 
 ### Objective:
 
+To find the best strategies to improve for the next marketing campaign. How can the financial institution have a greater effectiveness for future marketing campaigns? In order to answer this, we have to analyze the last marketing campaign the bank performed and identify the patterns that will help us find conclusions in order to develop future strategies.
+
 The following project focus on the analysis of a dataset 'Bank Marketing' which contains data about customers and aims to get useful insights from the data and predict if a new customer will accept a deposit offer or not. Determine clusters among the sample population that will most likely open term deposit accounts.
 
 ### Dataset:
